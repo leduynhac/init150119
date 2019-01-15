@@ -1,4 +1,3 @@
-# init150119
 <h1>Setup Frontend/Angular Development Environment</h1>
 
 <h2>Install Visual Studio Code</h2>
@@ -24,12 +23,12 @@ https://code.visualstudio.com/download
 <h2>Check if GIT is install or not</h2>
 <p>Execute: git –version</p>
 <h2>Download repository from github into local</h2>
-<p>Execute: git clone <repository url></p>
+<p>Execute: git clone &lt;repository url&gt;</p>
 <h2>Get latest sources from remote repository</h2>
 <p>Execute: git pull</p>
 <h2>Get sources in the past</h2>
-<p>Execute: git checkout <id of a specific commit></p>
+<p>Execute: git checkout &lt;id of a specific commit&gt;</p>
 <h2>Get sources of a branch (ex: master branch)</h2>
-<p>Execute: git checkout <branch name></p>
+<p>Execute: git checkout &lt;branch name&gt;</p>
 
 
